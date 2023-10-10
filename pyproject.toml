@@ -1,7 +1,7 @@
-version = "0.0.1"
+version = "0.0.2"
 name = "dnd-roller"
 authors = [
-    {name = "Oscar Mojica", email = "oscar.ladino@fieb.org.br"},
+    {name = "Oscar Mojica", email = "oscar.ladino@fieb.org.bri"},
 ]
 description = "Python package to roll D&D dice in the terminal."
 requires-python = ">=3.10"

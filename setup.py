@@ -12,7 +12,7 @@ with open(PKG_FOLDER / "README.md") as f:
 
 setup(
     name="dnd-roller",
-    version="0.0.1",
+    version="0.0.2",
     author="Oscar Mojica",
     author_email="oscar.ladino@fieb.org.br",
     description="Python package to roll D&D dice in the terminal.",
